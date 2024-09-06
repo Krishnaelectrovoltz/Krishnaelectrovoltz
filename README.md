@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dandenzonga@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/3VJ1c](https://shorturl.at/3VJ1c)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1bmcvqFZ92sQQ8sf5W4OfYPmuws5jjuee](https://docs.google.com/document/d/1bmcvqFZ92sQQ8sf5W4OfYPmuws5jjuee)
 
 - ⚡ Fun fact **I always forget where I kept my glasses 🙃**
 
