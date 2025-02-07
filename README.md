@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Advanced HVAC Control System & Automated Warehousing System**
 
-- 📝 I regularly write articles on [https://krishnaelectrovoltz.blogspot.com](https://krishnaelectrovoltz.blogspot.com)
+- 📝 I regularly write articles on https://krishnaelectrovoltz.blogspot.com](https://krishnaelectrovoltz.blogspot.com
 
 - 💬 Ask me about **Embedded Systems and Automation**
 
