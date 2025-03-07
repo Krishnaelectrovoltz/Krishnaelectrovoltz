@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Underwater LiFi communication technology**
 
-- 🌱 I’m currently learning **real-time data processing, communication protocols, and embedded system control. **
+- 🌱 I’m currently learning **real-time data processing, communication protocols, and embedded system control**
 
 - 👯 I’m looking to collaborate on **Advanced HVAC Control Systems**
 
