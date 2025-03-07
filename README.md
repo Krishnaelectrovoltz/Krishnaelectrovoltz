@@ -2,11 +2,11 @@
 <h3 align="center">PLC Programmer with Expertise in Industrial Automation and Control Systems</h3>
 
 
-- 🔭 I’m currently working on **PLC Automation projects**
+- 🔭 I’m currently working on **Underwater LiFi communication technology**
 
-- 🌱 I’m currently learning **PLC Statement List (STL) & SCADA**
+- 🌱 I’m currently learning **real-time data processing, communication protocols, and embedded system control. **
 
-- 👯 I’m looking to collaborate on **Advanced HVAC Control System & Automated Warehousing System**
+- 👯 I’m looking to collaborate on **Advanced HVAC Control Systems**
 
 - 📝 I regularly write articles on https://krishnaelectrovoltz.blogspot.com
 
