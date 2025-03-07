@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnaelectrovoltz</h1>
 <h3 align="center">Skilled PLC Programmer with Expertise in Industrial Automation and Control Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaelectrovoltz&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaelectrovoltz" /> </p>
 
 - 🔭 I’m currently working on **PLC Automation projects**
 
