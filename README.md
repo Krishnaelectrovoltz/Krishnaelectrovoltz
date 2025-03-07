@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnaelectrovoltz</h1>
-<h3 align="center">Skilled PLC Programmer with Expertise in Industrial Automation and Control Systems</h3>
+<h3 align="center">PLC Programmer with Expertise in Industrial Automation and Control Systems</h3>
 
 
 - 🔭 I’m currently working on **PLC Automation projects**
