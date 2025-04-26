@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Embedded Systems and Automation**
 
-- 📫 How to reach me **dandenzonga@gmail.com**
+- 📫 How to reach me **krishnaelectrovoltz@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1scFDn-L0hE7Qrgd7whBlh5wF_NlfBM-w/view?usp=drivesdk
 
