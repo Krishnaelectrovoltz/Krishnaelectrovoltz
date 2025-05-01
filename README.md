@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnaelectrovoltz</h1>
-<h3 align="center">PLC Programmer with Expertise in Industrial Automation and Control Systems</h3>
+<h3 align="center">Engineer by design, creator by passion, crafting embedded systems with Arduino and STM32 to solve real-world problems</h3>
 
 
 - 🔭 I’m currently working on **Underwater LiFi communication technology**
